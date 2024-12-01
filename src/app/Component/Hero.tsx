@@ -1,9 +1,9 @@
 "use client"
 import React from 'react';
 import Image from 'next/image';
-import heroImage from '../assets/heroImage.jpg'
-import vector from '../assets/Vector.png'
-
+import heroImage from "../assets/heroImage.jpg"
+import vector from "../assets/Vector.png"
+import { useEffect } from 'react';
 
 
 const Hero = () => {

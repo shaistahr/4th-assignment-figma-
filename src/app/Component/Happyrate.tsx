@@ -2,8 +2,9 @@ import React from 'react'
 import Image from 'next/image'
 import stars from '../assets/stars.png'
 import tick from '../assets/tick.png'
-
+import gsap from 'gsap'
 const Happyrate = () => {
+
   return (
     <>
     <h1 className='text-5xl text-center md:m-[70px] font-bold leading-[57.6px] md:text-left'>OUR HAPPY CUSTOMERS</h1>
